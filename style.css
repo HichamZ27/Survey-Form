@@ -25,12 +25,12 @@ body {
   font-size: 25px;
 }
 
-#survey-form {
+form {
   background-color: darkgoldenrod;
-  width: 800px;
   border-radius: 5px;
-  margin: auto;
   padding: 40px;
   font-size: 20px;
   opacity: 0.9;
+  margin-top: 0em;
+  display: block;
 }
